@@ -151,9 +151,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="khas.c" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Source.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\downloads\graphics.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>

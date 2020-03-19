@@ -33,7 +33,7 @@ bool check()
 };
 
 
-int main()
+int mainxxw()
 {
     srand(time(0));
 
